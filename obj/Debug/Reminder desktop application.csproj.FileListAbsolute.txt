@@ -1,0 +1,119 @@
+D:\Projects\Reminder desktop application\Reminder desktop application\bin\Debug\Reminder desktop application.exe.config
+D:\Projects\Reminder desktop application\Reminder desktop application\bin\Debug\Reminder desktop application.exe
+D:\Projects\Reminder desktop application\Reminder desktop application\bin\Debug\Reminder desktop application.pdb
+D:\Projects\Reminder desktop application\Reminder desktop application\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Reminder desktop application\Reminder desktop application\bin\Debug\MetroFramework.dll
+D:\Projects\Reminder desktop application\Reminder desktop application\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.Properties.Resources.resources
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.csproj.GenerateResource.Cache
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.exe
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.pdb
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.Reminder.resources
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.NewTaskForm.resources
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.csprojResolveAssemblyReference.cache
+D:\Projects\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.TaskNotification.resources
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Reminder desktop application.exe.config
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.exe
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.pdb
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Reminder desktop application.exe
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Reminder desktop application.pdb
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Common.Logging.Core.dll
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Common.Logging.dll
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\MetroFramework.Design.dll
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\MetroFramework.dll
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Quartz.dll
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Common.Logging.pdb
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Common.Logging.xml
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Common.Logging.Core.xml
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Quartz.pdb
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\bin\Debug\Quartz.xml
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.csprojResolveAssemblyReference.cache
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.NewTaskForm.resources
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.Reminder.resources
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.Properties.Resources.resources
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder_desktop_application.TaskNotification.resources
+C:\Users\Marius\Desktop\RssReader\Reminder desktop application\Reminder desktop application\obj\Debug\Reminder desktop application.csproj.GenerateResource.Cache
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Reminder desktop application.exe.config
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder desktop application.exe
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder desktop application.pdb
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Reminder desktop application.exe
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Reminder desktop application.pdb
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Common.Logging.Core.dll
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Common.Logging.dll
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\MetroFramework.Design.dll
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\MetroFramework.dll
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Quartz.dll
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Common.Logging.pdb
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Common.Logging.xml
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Common.Logging.Core.xml
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Quartz.pdb
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\bin\Debug\Quartz.xml
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder desktop application.csprojResolveAssemblyReference.cache
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder_desktop_application.NewTaskForm.resources
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder_desktop_application.Reminder.resources
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder_desktop_application.Properties.Resources.resources
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder_desktop_application.TaskNotification.resources
+C:\Users\Marius\Desktop\Reminder desktop application v2\Reminder desktop application\obj\Debug\Reminder desktop application.csproj.GenerateResource.Cache
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Reminder desktop application.exe.config
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder desktop application.exe
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder desktop application.pdb
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Reminder desktop application.exe
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Reminder desktop application.pdb
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Common.Logging.Core.dll
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Common.Logging.dll
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\MetroFramework.Design.dll
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\MetroFramework.dll
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Quartz.dll
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Common.Logging.pdb
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Common.Logging.xml
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Common.Logging.Core.xml
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Quartz.pdb
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\bin\Debug\Quartz.xml
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder desktop application.csprojResolveAssemblyReference.cache
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder_desktop_application.NewTaskForm.resources
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder_desktop_application.Reminder.resources
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder_desktop_application.Properties.Resources.resources
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder_desktop_application.TaskNotification.resources
+C:\Users\Marius\Desktop\Reminder\Reminder desktop application\obj\Debug\Reminder desktop application.csproj.GenerateResource.Cache
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder desktop application.csprojAssemblyReference.cache
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder desktop application.exe
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder desktop application.pdb
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Reminder desktop application.exe.config
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Reminder desktop application.exe
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Reminder desktop application.pdb
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Common.Logging.pdb
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Common.Logging.xml
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Common.Logging.Core.pdb
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Common.Logging.Core.xml
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Quartz.pdb
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\bin\Debug\Quartz.xml
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder_desktop_application.NewTaskForm.resources
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder_desktop_application.Reminder.resources
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder_desktop_application.Properties.Resources.resources
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder_desktop_application.TaskNotification.resources
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder desktop application.csproj.GenerateResource.cache
+C:\Users\MAXI\Desktop\.NET-Reminder-App-master\obj\Debug\Reminder desktop application.csproj.CopyComplete
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder desktop application.csprojAssemblyReference.cache
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder_desktop_application.NewTaskForm.resources
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder_desktop_application.Reminder.resources
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder_desktop_application.Properties.Resources.resources
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder_desktop_application.TaskNotification.resources
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder desktop application.csproj.GenerateResource.cache
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder desktop application.exe
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder desktop application.pdb
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Reminder desktop application.exe.config
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Reminder desktop application.exe
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Reminder desktop application.pdb
+C:\Users\maxi\Desktop\calendario_rec\obj\Debug\Reminder desktop application.csproj.CopyComplete
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Common.Logging.pdb
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Common.Logging.xml
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Common.Logging.Core.pdb
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Common.Logging.Core.xml
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Quartz.pdb
+C:\Users\maxi\Desktop\calendario_rec\bin\Debug\Quartz.xml
